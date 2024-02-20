@@ -1,8 +1,8 @@
-1. data collection
+1. data collection dataset and dataloader
 
-Using KITTI data set
+Using KITTI data set, 
 
-2. data preperation
+2. data preperation/ transformers
 3. create the model
 
 cnn with several layers (first attempt will be 3)

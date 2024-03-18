@@ -1,5 +1,7 @@
 # Monocular-Binocular-Depth-Estimation
 
+Link to paper number 1: "Efficient Depth Estimation with Floating-Point Optimization"
+
 To get KITTI dataset.
 
 navigate to the Dataset directory
